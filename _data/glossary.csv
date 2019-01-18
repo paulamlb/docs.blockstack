@@ -1,6 +1,7 @@
 Term,Definition,Areas
 App Review,An incentive mechanism for application developers in the early stage (first four years) of the ecosystem and helps with bootstrapping the two-sided market.,
 App Mining,"​​A system where the Blockstack community funds decentralized app teams.",
+association token,"A whitelisted key used in a Gaia Storage system.",Blockstack Tech
 Atlas,A peer network provide a global index for discovery,Blockstack Tech
 block,"A discrete group of records written to a blockchain that can effectively be identified and referenced by the
 use of headers that contain a digital fingerprint of the records each block contains.",Filing

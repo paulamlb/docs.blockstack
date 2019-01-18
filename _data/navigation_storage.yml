@@ -1,0 +1,18 @@
+- title: Introduction
+  docs:
+  - storage/overview
+  - storage/authentication
+  - storage/write-to-read
+  - storage/hub-choice
+
+- title: How to hub
+  docs:
+  - storage/hub-operation
+  - storage/amazon-s3-deploy
+  - storage/digital-ocean-deploy
+
+- title: Reference
+  docs:
+  - storage/config-schema
+  - storage/cliDocs
+  - common/javascript_ref
