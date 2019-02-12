@@ -86,20 +86,25 @@ To create a voter profile, do the following:
 
    After you authenticate, the browser displays the `vote.blockstack.org` with your newly created profile.
 
-   <img src="images/de-profile.png" alt="">
-
    When you authenticate, Democracy Earth sends a validation email to the email address associated with your Blockstack ID.
+   
+   
 
-6. Go to your mailbox.
-7. Locate the email that was sent to you.
+6. If the email address associated with your Blockstack ID is not the whitelisted e-mail, you can input the correct address in your new profile. 
+
+<img width="334" alt="email" src="https://user-images.githubusercontent.com/18194034/52675765-f94afe80-2f0e-11e9-92c4-d8c349cc5e54.png">
+
+
+7. Go to your mailbox.
+8. Locate the email that was sent to you.
 
    <img src="images/de-verification.png" alt="">
 
-8. Click the link provided in the email.
+9. Click the link provided in the email.
 
    The yellow verification message is no longer visible on your Democracy Earth profile.
 
-9. Decide whether your profile should use a pseudonym.
+10. Decide whether your profile should use a pseudonym.
 
    As an application miner, you want to represent your application to voters and so, you should not use a pseudonym. You use your profile to interact with voters. You'll answer questions or maybe defend your choices to votes.
 
@@ -109,9 +114,9 @@ To create a voter profile, do the following:
    initiates the profile with the username portion of your ID, but you can
    change it afterward at any time.
 
-10. Edit the **FIRST NAME**, **SURNAME**, and **USERNAME FIELDS** in your profile.
+11. Edit the **FIRST NAME**, **SURNAME**, and **USERNAME FIELDS** in your profile.
 
-11. Press **Save Profile**.
+12. Press **Save Profile**.
 
     At this point, you should see your completed profile.
 
@@ -149,6 +154,9 @@ You are all done setting up your profile. In the future, make sure that if you l
 7. Confirm your vote.
 
    Your confirmed vote is timestamped and remains on the registered ledger of the application. When you remove your vote, the removal is also recorded on the ledger.
+   
+   <img width="556" alt="reallocate" src="https://user-images.githubusercontent.com/18194034/52676002-c05f5980-2f0f-11e9-9ed1-80d2de782656.png">
+
 
 ## Help improve voting and the App Mining process
 
