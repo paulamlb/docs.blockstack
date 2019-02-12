@@ -61,13 +61,12 @@ Blockstack uses votes to calculate a _likability score_ and a _traction score_ f
 ## Create a voter or app miner profile on Democracy Earth
 
 Participation on the `vote.blockstack.org` is controlled by the email in your Democracy Earth profile; so the email you use matters.
-
 Democracy Earth supports authentication with a Blockstack identity. When you authenticate into the site, it builds a profile using the email associated with your Blockstack ID. Your profile needs to use a specific email:
 
 * If you are an application miner, this email must be the one you provided when submitting your application to App Mining.
-* If you are a Stacks token holder, this email must should be the same email you use when communicating with Blockstack about your tokens.
+* If you are a Stacks token holder, this email must be the same email you use when communicating with Blockstack about your tokens.
 
-If for some reason you can't recall the proper email or the email that appears in your profile does not match the email required to vote, don't worry. You can change that email later after you create a profile.
+If for some reason you can't recall the proper email or the email that appears in your profile does not match the email required to vote, don't worry. You can change that email later after you create a profile (see Step 6 below).
 
 To create a voter profile, do the following:
 
