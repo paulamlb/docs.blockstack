@@ -34,10 +34,9 @@ Voters can distribute some or all of their votes by either up or down voting one
 
 ### How app miners participate
 
-<img src="images/de-debate.png" alt="">
-
-
 Choosing how to allocate votes for a monthly payout of 100k is not a trivial task - to help voters learn more, each app has a **Debate** section where they can interact directly with Founders (App Miners). Questioning and constructive feedback are enormously insightful input for App Miners, so voters are encouraged to inquire and provide feedback as much as possible. App miners on the other hand are encouraged to introduce themselves, explain their goals, and share more about their work. Remember, everyone's joint goal is to build an application ecosystem where users control their data and find real value in.
+
+<img src="images/de-debate.png" alt="">
 
 ### When voting occurs
 
