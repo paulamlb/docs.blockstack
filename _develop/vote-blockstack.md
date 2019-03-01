@@ -152,9 +152,9 @@ You are all done setting up your profile. In the future, make sure that if you l
 
 7. Confirm your vote.
 
-   Your confirmed vote is timestamped and remains on the registered ledger of the application. When you remove your vote, the removal is also recorded on the ledger.
+   Your confirmed vote is timestamped and remains on the registered ledger of the application. When you remove your vote, the removal is also recorded on the ledger. The tutorial bellow shows the process for reallocating the vote:
    
-   [<img width="556" alt="reallocate" src="https://user-images.githubusercontent.com/18194034/52676002-c05f5980-2f0f-11e9-9ed1-80d2de782656.png">](https://www.youtube.com/watch?v=CCkjNu7oBhs&feature=youtu.be)
+   [<img width="556" alt="reallocate" src="https://user-images.githubusercontent.com/18194034/52676002-c05f5980-2f0f-11e9-9ed1-80d2de782656.png">](https://www.youtube.com/watch?v=QwKzTLVnihI&feature=youtu.be)
 
 
 ## Help improve voting and the App Mining process
